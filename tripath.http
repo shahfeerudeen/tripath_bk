@@ -1,0 +1,6 @@
+@tripath_HostAddress = http://localhost:5025
+
+GET {{tripath_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

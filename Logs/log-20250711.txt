@@ -1,0 +1,10 @@
+2025-07-11 04:28:06 [INF] User profile is available. Using '"/root/.aspnet/DataProtection-Keys"' as key repository; keys will not be encrypted at rest.
+2025-07-11 04:28:06 [INF] Creating key {50cd3ba1-0627-4b00-80e2-f1e9af9bef26} with creation date 2025-07-11 04:28:06Z, activation date 2025-07-11 04:28:06Z, and expiration date 2025-10-09 04:28:06Z.
+2025-07-11 04:28:06 [WRN] No XML encryptor configured. Key {50cd3ba1-0627-4b00-80e2-f1e9af9bef26} may be persisted to storage in unencrypted form.
+2025-07-11 04:28:06 [INF] Writing data to file '"/root/.aspnet/DataProtection-Keys/key-50cd3ba1-0627-4b00-80e2-f1e9af9bef26.xml"'.
+2025-07-11 04:28:06 [WRN] Overriding address(es) '"http://localhost:5025"'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-07-11 04:28:06 [INF] Now listening on: "http://0.0.0.0:5025"
+2025-07-11 04:28:06 [INF] Application started. Press Ctrl+C to shut down.
+2025-07-11 04:28:06 [INF] Hosting environment: "Development"
+2025-07-11 04:28:06 [INF] Content root path: "/Downloads/Tripath_Logistics_BE"
+2025-07-11 04:29:12 [INF] Application is shutting down...

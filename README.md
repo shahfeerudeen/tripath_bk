@@ -1,2 +1,1 @@
-# tripath_bk
-dotnet backend
+# Tripath_Logistics

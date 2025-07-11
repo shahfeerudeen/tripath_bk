@@ -1,0 +1,101 @@
+{
+   
+    "UserManagement":{
+        "UserId": "UserId",
+        "ParentId":"ParentId",
+        "UserName":"LoginName",
+        "UserPassword":"UserPassword",
+        "UserEmail":"UserEmail",
+        "UserMobileno":"UserMobileno",
+        "UserStatus":"UserStatus",
+        "UserEntryDate":"UserEntryDate",
+        "UserUpdateDate":"UserUpdateDate"
+
+    },
+   
+    "UserDataDetails":
+    {
+        "_UserDataDetailsId":"_id",
+        "UserId":"UserId",
+        "OrganizationId":"OrganizationId",
+        "BearerToken":"BearerToken",
+        "UserEntryDate":"UserEntryDate",
+        "UserUpdateDate":"UserUpdateDate"
+        
+    },
+  
+    "UserLog":
+    {
+        "UserLogId":"_id",
+        "UserId":"UserId",
+        "IPAddress":"IPAddress",
+        "UserLogStatus":"UserLogStatus",
+        "UserLoginTime":"UserLoginTime",
+        "UserLogoutTime":"UserLogoutTime",
+        "UserLogEntryDate":"UserLogEntryDate",
+        "UserLogUpdateDate":"UserLogUpdateDate"
+    },
+ 
+    "UserMaster":
+    {
+        "UserMasterId":"_id",
+        "UserMasterRole":"UserMasterRole",
+        "UserMasterStatus":"UserMasterStatus",
+        "UserMasterEntryDate":"UserMasterEntryDate",
+        "UserMasterUpdateDate":"UserMasterUpdateDate"
+    },
+    "OrganizationMaster":
+    {
+        "Id":"_id",
+        "OrganizationName":"OrganizationName",
+        "OrganizationAddress":"OrganizationAddress",
+        "OrganizationEmail":"OrganizationEmail",
+        "OrganizationPhoneNumber":"OrganizationPhoneNumber",
+        "OrganizationStatus":"OrganizationStatus",
+        "OrganizationEntryDate":"OrganizationEntryDate",
+        "OrganizationUpdatedDate":"OrganizationUpdatedDate"
+    },
+    "OtpVerifications":
+    {
+       "Id":"_id",
+       "UserId":"UserId",
+       "Email":"Email",
+       "Phone":"Phone",
+       "Otp":"Otp",
+       "OtpEntryDate":"OtpEntryDate",
+       "OtpUpdateDate":"OtpUpdateDate ",
+       "AttemptCount":"AttemptCount",
+       "OtpType":"OtpType"
+    },
+    "ApplicationLogs":
+    {
+        "ApplicationLogId":"_id",
+        "UserId":"UserId",
+        "ApplicationAction":"ApplicationAction",
+        "ApplicationLogStatus":"ApplicationLogStatus",
+        "ApplicationLogEntryDate":"ApplicationLogEntryDate"
+
+    },
+    "ExportEntity":
+    {
+        "ExportEntityId":"ExportEntityId",
+        "ExportMasterId":"ExportMasterId",
+        "ExportEntityType":"ExportEntityType",
+        "ExportEntityName":"ExportEntityName",
+        "ExportEntityCountry":"ExportEntityCountry",
+        "ExportState":"ExportState",
+        "ExportCity":"ExportCity",
+        "ExportEntityPostalCode":"ExportEntityPostalCode",
+        "ExportEntityAddress":"ExportEntityAddress",
+        "ExportEntityTelephone":"ExportEntityTelephone",
+        "ExportEntityFax":"ExportEntityFax",
+        "ExportEntityContactPerson":"ExportEntityContactPerson",
+        "ExportEntityEmail":"ExportEntityEmail",
+        "ExportEntityMobile":"ExportEntityMobile",
+        "ExportStatus":"ExportStatus",
+        "ExportEntryDate":"ExportEntryDate",
+        "ExportUpdateDate":"ExportUpdateDate"
+
+    }
+    
+}
