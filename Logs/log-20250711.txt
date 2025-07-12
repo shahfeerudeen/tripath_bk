@@ -8,3 +8,11 @@
 2025-07-11 04:28:06 [INF] Hosting environment: "Development"
 2025-07-11 04:28:06 [INF] Content root path: "/Downloads/Tripath_Logistics_BE"
 2025-07-11 04:29:12 [INF] Application is shutting down...
+2025-07-11 10:35:01 [INF] User profile is available. Using '"/root/.aspnet/DataProtection-Keys"' as key repository; keys will not be encrypted at rest.
+2025-07-11 10:35:06 [WRN] Overriding address(es) '"http://localhost:5025"'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2025-07-11 10:35:06 [INF] Now listening on: "http://0.0.0.0:5025"
+2025-07-11 10:35:06 [INF] Application started. Press Ctrl+C to shut down.
+2025-07-11 10:35:06 [INF] Hosting environment: "Development"
+2025-07-11 10:35:06 [INF] Content root path: "/Downloads/tripath_bk"
+2025-07-11 10:44:09 [INF] Application is shutting down...
+2025-07-11 10:44:09 [WRN] As of "07/11/2025 10:37:40 +00:00", the heartbeat has been running for "00:00:10.8290353" which is longer than "00:00:01". This could be caused by thread pool starvation.

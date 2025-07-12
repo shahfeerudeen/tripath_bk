@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tripath")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82bc9fb1109871b403542615d3cf0def69bf9a55")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d72362af2777917a9e0a50a7c3df3caae2161913")]
 [assembly: System.Reflection.AssemblyProductAttribute("tripath")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tripath")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

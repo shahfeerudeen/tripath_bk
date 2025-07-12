@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Downloads/Tripath_Logistics_BE/tripath.csproj": {}
+    "/Downloads/tripath_bk/tripath.csproj": {}
   },
   "projects": {
-    "/Downloads/Tripath_Logistics_BE/tripath.csproj": {
+    "/Downloads/tripath_bk/tripath.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Downloads/Tripath_Logistics_BE/tripath.csproj",
+        "projectUniqueName": "/Downloads/tripath_bk/tripath.csproj",
         "projectName": "tripath",
-        "projectPath": "/Downloads/Tripath_Logistics_BE/tripath.csproj",
+        "projectPath": "/Downloads/tripath_bk/tripath.csproj",
         "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/Downloads/Tripath_Logistics_BE/obj/",
+        "outputPath": "/Downloads/tripath_bk/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/root/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eA+lH1y2YOg=",
+  "dgSpecHash": "1jbYXsfSD+o=",
   "success": true,
-  "projectFilePath": "/Downloads/Tripath_Logistics_BE/tripath.csproj",
+  "projectFilePath": "/Downloads/tripath_bk/tripath.csproj",
   "expectedPackageFiles": [
     "/root/.nuget/packages/dnsclient/1.6.1/dnsclient.1.6.1.nupkg.sha512",
     "/root/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",

@@ -13,12 +13,12 @@ var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddRepositoryRegistration(builder.Configuration);
 
-// builder.WebHost.ConfigureKestrel(
-//     (context, options) =>
-//     {
-//         options.Configure(context.Configuration.GetSection("Kestrel"));
-//     }
-// );
+ builder.WebHost.ConfigureKestrel(
+     (context, options) =>
+     {
+         options.Configure(context.Configuration.GetSection("Kestrel"));
+     }
+ );
 
 var configuration = builder.Configuration;
 var connectionString = configuration.GetConnectionString("MongoDb");
