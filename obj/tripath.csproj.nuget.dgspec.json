@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Downloads/tripath_bk/tripath.csproj": {}
+    "/home/yeejai-lap1/cicd/tripath_bk/tripath.csproj": {}
   },
   "projects": {
-    "/Downloads/tripath_bk/tripath.csproj": {
+    "/home/yeejai-lap1/cicd/tripath_bk/tripath.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Downloads/tripath_bk/tripath.csproj",
+        "projectUniqueName": "/home/yeejai-lap1/cicd/tripath_bk/tripath.csproj",
         "projectName": "tripath",
-        "projectPath": "/Downloads/tripath_bk/tripath.csproj",
+        "projectPath": "/home/yeejai-lap1/cicd/tripath_bk/tripath.csproj",
         "packagesPath": "/root/.nuget/packages/",
-        "outputPath": "/Downloads/tripath_bk/obj/",
+        "outputPath": "/home/yeejai-lap1/cicd/tripath_bk/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/root/.nuget/NuGet/NuGet.Config"
