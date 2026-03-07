@@ -21,3 +21,5 @@ public class ApiLog
 
     public string? ResponseStatus { get; set; }
 }
+
+#rkgnkb
